@@ -1,2 +1,4 @@
 I want to learn git
 This is a test file
+
+see stage
