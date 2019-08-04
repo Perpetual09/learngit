@@ -1,1 +1,2 @@
 28/7/2019,game,Burger king,BBQ,basketball,Javascript
+4/8/2019,basketball,game,mental tiredness,recycle,dining
