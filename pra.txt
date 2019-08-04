@@ -1,5 +1,0 @@
-try
-merge
-fast
-no-ff
-1
