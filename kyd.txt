@@ -16,3 +16,7 @@ update code.py to v1.1 (translate numbers) and change the previous keywords to t
 however it seems unecessary as i will not delete the old version,
 also it is safer to update from time to time.
 s142,affd_rffzc2g,agjm8jg,zfabft_hxf
+
+12/8/2019
+t2gb,s142,a6b_x13t,gc22v_21tc7
+
